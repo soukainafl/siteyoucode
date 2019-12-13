@@ -1,0 +1,309 @@
+ 
+ * { padding: 0; 
+margin: 0;}
+html, body {
+    width: 100%;
+    height: auto;
+    margin: 0;
+    padding: 0;
+
+    
+}
+body {
+    
+    font-family: 'Raleway', sans-serif;
+    background: #fff;
+    font-size: 14px;
+    line-height: 24px;
+    height: 2000px;
+overflow-x: hidden;
+} 
+
+header{
+    background-image:  url(../img/slide1%5B1%5D.jpg);
+    background-size: cover;
+    background-position: center;
+    font-family: sans-serif;
+    height: 500px;
+}
+.containner{
+    display: flex;
+}
+
+ul{
+    margin-left: 60px;
+    margin-top: 40px;
+}
+li{ 
+    display: inline;
+    padding: 0 20px;
+
+}
+a{
+    text-decoration: none;
+
+    color: #FFFFFF;
+
+}
+ .exp{
+    color: #038DFE;
+}
+a:hover{
+
+    color: #038DFE;
+
+}
+.logo{
+
+    margin-left: 60px;
+    margin-top: 10px;
+
+}
+.btn{
+
+    background-color: #038DFE;
+    border-radius: 10rem;
+    padding: 10px 30px;
+    color: #FFF;
+
+
+}
+.btn:hover{
+    background-color: white;
+    color: #000;
+    cursor: pointer;
+}
+
+
+.btn2{
+
+    background-color: #038DFE;
+    border-radius: 10rem;
+    padding: 10px 30px;
+    color: #FFF;
+
+
+}
+
+.btn2:hover{
+    background-color: white;
+    color: #000;
+    cursor: pointer;
+  
+}
+.btn3{
+
+    background-color: #038DFE;
+    border-radius: 10rem;
+    padding: 10px 30px;
+    color: #FFF;
+
+}
+
+.btn3:hover{
+    background-color: white;
+    color: #000;
+    cursor: pointer;
+  
+}
+.block2 {
+   margin-left: 60px;
+   margin-top: 100px;
+     color: #FFFFFF;
+     
+   }
+.block2 p { font: 18px "open sans",sans-serif;
+}
+
+#contant { margin-top: 30px;}
+
+#contant, .h
+{ text-align: center;
+    font-size: 48px;
+    margin-bottom: 30px;
+ 
+}
+ #contant,.p1 {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 1.7;
+     text-align: center;
+      letter-spacing: 0.04em;
+
+   
+}
+    #contant,.p2 {
+        margin-top: 20px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+    line-height: 1.7;
+    letter-spacing: 0.04em;
+        text-align: center;
+        margin-bottom: 40px;
+} 
+ #comp , .image { 
+  flex-basis: 50%;
+    height: 400px;
+  
+}
+#comp , .phrase {
+  
+    flex-basis: 50%;
+        height: 400px;
+        
+
+}
+#comp , .phrase , .p1 
+{ margin-top: 20px;
+}
+
+    #comp { display: flex;
+        margin-top: 80px;
+             border: 1px solid #707070;
+    }
+
+
+.int {
+    overflow:hidden;
+    -webkit-border-radius:50px;
+    -moz-border-radius:50px;
+    border-radius:50px;
+    width:80px;
+    height:80px; }
+
+ #parte1 {
+     margin-top: 40px;
+    background-color: #1076FB;
+padding-top: 40px;
+     padding-left: 20px;
+    width: 100%; 
+     display: flex;
+     text-align: center;
+
+
+}
+
+
+
+ .pp1 { flex-basis: 25%;
+}
+
+ .pp2 { flex-basis: 25%;}
+
+ .pp3 { flex-basis: 25%;}
+ .pp4 { flex-basis: 25%;}
+
+
+.counter {
+    text-align: center;
+    padding-bottom: 20px;
+    border-right: 1px dashed #FFFFFF;
+
+}  .code { width: 100%;
+    height: 500px;
+     margin-top: 40px; 
+    margin-bottom: 40px;
+}
+
+#photo { display: flex;
+     text-align: center;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+
+.ocp {
+    flex-basis: 40%;
+ text-align: center;
+    width: 80px; 
+    height: 80px;
+  padding-left: 80px;
+}
+
+.hand { flex-basis: 40%;
+ 
+        width: 80px; 
+    height: 80px;
+   
+    margin-top: 10px;
+}
+
+.simplom { flex-basis: 40%;
+    width: 80px; 
+    height: 80px;
+    padding-right: 80px;
+  
+}
+
+
+/*footer */
+ #footer {
+    background-color: #000;
+
+    width: 100%;
+    text-align: left;
+    font:  16px sans-serif;
+    padding: 15px 50px;
+    margin-top: 100px;
+     display: flex;
+    
+} 
+#fa{
+    text-decoration: none;
+
+    color: #038DFE;
+
+}
+
+#fa:hover{
+
+    color: #FFFFFF;
+
+}
+.footer-contact
+{ width: 500px;
+    
+}
+
+.copyright 
+{  
+padding-top: 30px;
+
+
+}
+
+
+.footer-icons
+
+{ margin-left: 250px;
+ 
+    
+}
+ .foticon { padding-left: 150px;
+       }
+
+#footer , .p{ 
+    font : font:  16px sans-serif;
+    color: #496174;
+      line-height: 24px;
+      line-height: 1.7;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
